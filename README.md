@@ -8,9 +8,9 @@ Implemented are the following scheduling algorithms:
 4. Round Robin, with different quantum values (RR)
 
 Interested to compute the following metrics, for each experiment: 
-• The average turnaround time
-• The total throughput (number of processes done per unit time) 
-• The CPU utilization
+- The average turnaround time
+- The total throughput (number of processes done per unit time) 
+- The CPU utilization
 
 Instructions:
 To run from terminal:
